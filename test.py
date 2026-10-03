@@ -1,3 +1,3 @@
 
 
-print=int(input("Input :"))
+print=int(input("Input  :"))
