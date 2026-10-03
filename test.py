@@ -1,1 +1,3 @@
-print=int(input("zov :"))
+
+
+print=int(input("Input :"))
