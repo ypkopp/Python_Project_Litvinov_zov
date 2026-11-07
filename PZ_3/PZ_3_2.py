@@ -21,6 +21,7 @@ while True:
                 else:
                     middle_num = num3
                 #выводим из цикла
+
                 break
             #В ином случае ошибка
             except ValueError:
