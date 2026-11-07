@@ -14,7 +14,7 @@ while True:
                 # Проверяем является ли num1 средним
                 if (num2 <= num1 <= num3) or (num3 <= num1 <= num2):
                     middle_num = num1
-                # Проверяем является ли num2 средним
+                # Проверяем является ли num2  средним
                 elif (num1 <= num2 <= num3) or (num3 <= num2 <= num1):
                     middle_num = num2
                 # Если не первое и не второе то средним остается только num3
